@@ -11,3 +11,4 @@ def is_prime(n):
 print(is_prime(7))   # True
 print(is_prime(12))  # Falseghgghj
 
+print ("hello")
